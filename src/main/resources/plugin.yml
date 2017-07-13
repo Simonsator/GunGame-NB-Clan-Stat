@@ -1,0 +1,6 @@
+name: GunGameNB-Clan-Stats
+version: ${project.version}
+author: Simonsator
+depends: [Clans]
+main: de.simonsator.partyandfriends.clans.stats.gungamenb.GGNBMain
+description: Provides stats for clans for GunGameNB
